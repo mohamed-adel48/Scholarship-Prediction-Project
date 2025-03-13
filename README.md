@@ -3,7 +3,6 @@
 This project predicts whether an Erasmus applicant will receive a scholarship based on their exam scores and grant-related features. 
 
 - **Dataset:** [Kaggle: Erasmus Applicants Exam & Grant Data](https://www.kaggle.com/datasets/acareren/exam-and-grant-data-of-erasmus-applicants)
-- **Machine Learning Model:** Random Forest Classifier
 
 ## 📊 Dataset
 The dataset contains:
