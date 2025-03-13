@@ -22,9 +22,14 @@ The dataset contains:
    ```bash
    git clone https://github.com/yourusername/Erasmus-Scholarship-Prediction.git
    cd Erasmus-Scholarship-Prediction
+   ```
+   ```
    python -m venv venv
    source venv/bin/activate  # On macOS/Linux
    venv\Scripts\activate  # On Windows
+   ```
+   ```
    pip install -r requirements.txt
+   ```
 
 
