@@ -23,6 +23,7 @@ The dataset contains:
    git clone https://github.com/yourusername/Erasmus-Scholarship-Prediction.git
    cd Erasmus-Scholarship-Prediction
    ```
+2. Install dependencies
    ```
    python -m venv venv
    source venv/bin/activate  # On macOS/Linux
@@ -31,5 +32,14 @@ The dataset contains:
    ```
    pip install -r requirements.txt
    ```
+3. Run FastAPI Server
+   ```
+   uvicorn app:app --reload
+   ```
+   ```
+   http://127.0.0.1:8000/docs
+   ```
+   
+
 
 
